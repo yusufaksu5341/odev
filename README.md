@@ -1,2 +1,2 @@
-# odev
+# Binom Açılımı
 Yazılım Gereksinim Mühensiliği Ödev
